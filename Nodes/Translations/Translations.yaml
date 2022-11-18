@@ -1,0 +1,30 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [15,3],
+    "Body": [
+     "","en-US","it-IT",
+     "ChangeUserFormOutputSuccessMessage","Change User successful","Cambio utente riuscito",
+     "ChangeUserFormOutputLoginBlocked","Login attempt blocked","Login attempt blocked",
+     "ChangeUserFormOutputErrorMessage","Wrong username or password","Username o password errati",
+     "ChangePasswordFormSuccessMessage","Password changed successfully","Password cambiata con successo",
+     "ChangeUserFormOutputPasswordExpired","Password expired","Password scaduta",
+     "ChangeUserFormOutputFormHomonymUsers","Homonym users detected","",
+     "ChangeUserFormOutputUnableToCreateUser","Unable to create user","Impossibile creare l'utente",
+     "ChangePasswordFormWrongOldPasswordMessage","Wrong old password","Vecchia password errata",
+     "ChangePasswordFormPasswordAlreadyUsedMessage","Password already used","Password già utilizzata",
+     "ChangePasswordFormPasswordChangedTooRecentlyMessage","Password changed too recently","Password cambiata troppo recentemente",
+     "ChangePasswordFormPasswordTooShortMessage","Password too short","Password troppo corta",
+     "ChangePasswordFormUserNotFoundMessage","User not found","Utente non trovato",
+     "ChangePasswordFormUnsupportedOperationMessage","Unsupported operation","Operazione non supportata",
+     "ChangePasswordFormPasswordMismatchMessage","Passwords do not match","Le password non coincidono"
+    ]
+   }
